@@ -1,20 +1,19 @@
 {
-    "name": "alfrem-ipsum",
-    "type": "module",
-    "version": "1.0.0",
-    "description": "Lorem ipsum paster for alfred",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "alfrem ipsum"
-    },
-    "author": "polfor",
-    "license": "ISC",
-    "dependencies": {
-      "run-node": "^2.0.0"
-    }
+  "name": "alfrem-ipsum",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Lorem ipsum paster for alfred",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alfrem ipsum"
+  },
+  "author": "polfor",
+  "license": "ISC",
+  "dependencies": {
+    "run-node": "^2.0.0"
   }
-  
+}
