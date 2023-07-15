@@ -1,4 +1,5 @@
 Alfred workflow that either pastes or copies to clipboard a certain amount of lorem ipsum words set as argument.
+Uses lorem-ipsum package
 
 How to use :
 
