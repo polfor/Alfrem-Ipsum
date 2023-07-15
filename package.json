@@ -14,6 +14,7 @@
   "author": "polfor",
   "license": "ISC",
   "dependencies": {
+    "@nut-tree/nut-js": "^3.1.2",
     "lorem-ipsum": "^2.0.8",
     "run-node": "^2.0.0"
   }
